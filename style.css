@@ -1,0 +1,24 @@
+h1{
+    color: white;
+    font-size: 100px;
+  text-shadow: 1.5px 1.5px black;
+  font-family: "tt-nooks", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.card-body{
+    background-color: darkgrey;
+    border-radius: 3px;
+    color: white;
+  }
+  .card-title{
+    color: white;
+    font-size: 20px;
+    text-shadow: 1px 1px black;
+  }
+.card{
+    border: solid 2px blue;
+}
+nav{
+    background-color: darkgrey;
+}
