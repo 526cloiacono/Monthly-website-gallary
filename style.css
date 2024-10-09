@@ -7,7 +7,7 @@ h1{
   font-style: normal;
 }
 .card-body{
-    background-color: darkgrey;
+    background-color: #3B71CA;
     border-radius: 3px;
     color: white;
   }
@@ -17,8 +17,15 @@ h1{
     text-shadow: 1px 1px black;
   }
 .card{
-    border: solid 2px blue;
+    border: solid 2px white;
 }
 nav{
     background-color: darkgrey;
+}
+main{
+  background-color: darkgrey;
+}
+.dropdown-menu{
+  background-color: darkgrey;
+  text-align: center;
 }
