@@ -25,7 +25,7 @@ nav{
 main{
   background-color: darkgrey;
 }
-.dropdown-menu{
-  background-color: darkgrey;
-  text-align: center;
-}
+  .dropdown-menu{
+    background-color: darkgrey;
+    text-align: center;
+  }
